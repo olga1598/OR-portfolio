@@ -1,0 +1,57 @@
+/* body {
+  background-image: url("/images/background-laptop1.jpg");
+  
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+} */
+body{
+  background: #333;
+}
+
+body::after {
+  content: "";
+  background-image: url("/images/image5.jpg");
+  height: 800px;
+  
+  /* width: 100%;
+  height: 0;
+  padding-top: 100%; */
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* opacity: 0.4; */
+  filter: brightness(15%);
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;   
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+@media screen and (max-width: 1400px) {
+  body::after {
+    height: 2200px;
+  }
+}
+/* @media screen and (max-width: 900px) {
+  body::after {
+    height: 3300px;
+  }
+} */
+@media screen and (max-width: 900px) {
+  body::after {
+    height: 4200px;
+  }
+}
+

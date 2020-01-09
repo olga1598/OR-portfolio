@@ -1,0 +1,141 @@
+[
+    {
+        "id": "1",
+        "title": "React Shopping List",
+        "image": "/img/shopping-list-app.png",
+        "href": "https://olga1598.github.io/shopping-list-app",
+        "clicked": "false",
+        "about": "React shopping list. Add you item and remove it or remove the whole list at once.",
+        "utilizes": ["React", "Javascript", "CSS", "Node.js"]
+
+    },
+    
+    {
+        "id": "2",
+        "title": "Crystal Game",
+        "image": "/img/crystals-game.png",
+        "href": "https://olga1598.github.io/unit-4-game/",
+        "clicked": "false",
+        "about": "This is a guessing game using numbers hidden behind four crystals displayed as buttons on the page. Win the game if your total score matches the shown random picked number",
+        "utilizes": ["HTML", "jQuery", "CSS", "Javascript"]
+
+
+
+    },
+    
+    {
+        "id": "3",
+        "title": "Trivia Game",
+        "image": "/img/trivia-game.png",
+        "href": "https://olga1598.github.io/TriviaGame/",
+        "clicked": "false",
+        "about": "Answer 10 questions. You have only 15 seconds for each question. See the right answer if you are wrong.",
+        "utilizes": ["HTML", "Javascript", "CSS", "jQuery", "Bootstrap"]
+
+
+
+    },
+    
+    {
+        "id": "4",
+        "title": "Psychic Game",
+        "image": "/img/psychic-game.png",
+        "href": "https://olga1598.github.io/Psychic-Game/",
+        "clicked": "false",
+        "about": "The computer randomly picks the letter and the user has to guess which letter the computer chose.",
+        "utilizes": ["HTML", "Javascript", "CSS"]
+
+
+
+    },
+    
+    {
+        "id": "5",
+        "title": "Train Time",
+        "image": "/img/train-time.png",
+        "href": "https://olga1598.github.io/TrainTime/",
+        "clicked": "false",
+        "about": "Train Schedule app that uses Firebase and Moment.js to show the name, destination, frequency, next arrival and when the next train is coming.",
+        "utilizes": ["Moment.js", "Javascript", "CSS", "Bootstrap", "Firebase", "jQuery"]
+
+
+
+    },
+    
+    {
+        "id": "6",
+        "title": "Foodie-Leaks",
+        "image": "/img/project1.png",
+        "href": "https://jaihieong.github.io/project1_food_passion/",
+        "clicked": "false",
+        "about": "Search for the recipes by ingredient or pick the cusine or category. Get the ingredient list and recipe instructions. ",
+        "utilizes": ["React.js", "Javascript", "CSS", "Bootstrap", "Node.js"]
+
+
+
+    },
+    
+    {
+        "id": "7",
+        "title": "Friend-Finder",
+        "image": "/img/friend.png",
+        "href": "https://shielded-harbor-38775.herokuapp.com/",
+        "clicked": "false",
+        "about": "The Friend-Finder app asks the user to fill up the questionare at the beginning and then finds another person with the most compatible answers. ",
+        "utilizes": ["Express", "Javascript", "CSS", "Bootstrap", "Node.js", "HTML"]
+
+
+
+    },
+    
+    {
+        "id": "8",
+        "title": "Burger",
+        "image": "/img/Burger.png",
+        "href": "https://stormy-cliffs-11988.herokuapp.com/",
+        "clicked": "false",
+        "about": "Burger app uses MVS framework and MySQL database. Lets the user to create and 'eat' the burger.",
+        "utilizes": ["Express.js", "Javascript", "CSS", "Bootstrap", "Handlebars", "Node.js", "MySQL"]
+
+
+
+    },
+    
+    {
+        "id": "9",
+        "title": "Mongo-scraper",
+        "image": "/img/scraper.png",
+        "href": "https://scrappernews2019.herokuapp.com/",
+        "clicked": "false",
+        "about": "Scrape an articles from New York Times Food edition, like them and comment",
+        "utilizes": ["Cheerio", "Javascript", "CSS", "Bootstrap", "Mongoose"]
+
+
+
+    },
+    
+    {
+        "id": "10",
+        "title": "React-Clicky-Game",
+        "image": "/img/clicky_game.png",
+        "href": "http://react-clicky-game.s3-website-us-east-1.amazonaws.com/",
+        "clicked": "false",
+        "about": "It's a react-based memory game. Click on each image only once to reach the maximum score. Do not repeat!",
+        "utilizes": ["React.js", "Javascript", "CSS", "Bootstrap", "Node.js"]
+
+
+    },
+
+    {
+        "id": "11",
+        "title": "GIFTastic",
+        "image": "/img/GIFTastic.png",
+        "href": "https://olga1598.github.io/GIFTastic/",
+        "clicked": "false",
+        "about": "Javascript/ HTML Gif fetching application that uses the GIPHY API to fetch users choice of GIFs. User can click to play/ stop GIFs.",
+        "utilizes": ["giphy API", "jQuery", "Javascript", "CSS", "Bootstrap", "HTML"]
+
+    }
+
+]
+

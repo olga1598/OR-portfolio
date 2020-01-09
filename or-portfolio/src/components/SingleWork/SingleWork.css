@@ -1,0 +1,36 @@
+.card {
+    margin: 1.5rem;    
+    width: 15rem;
+    border-radius: 10px;
+    box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.2), 0 8px 22px 0 rgba(0, 0, 0, 0.19);
+    cursor: pointer;
+}
+
+.card img{
+    height: 230px;
+}
+
+.btn {
+    color: #8d4e5b; 
+    border-radius: 8px;
+    border: 1px solid #fda1a1;
+    margin: 5px;
+}
+
+.btn:hover {
+    background-color: #ff5959;
+    border: 2px solid #ff5959;
+
+}
+
+.card-title {
+    color: #923e4f;
+}
+
+@media screen and (max-width: 500px) {
+  
+          
+ 
+  
+}
+  

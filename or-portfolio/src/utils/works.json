@@ -1,0 +1,106 @@
+[
+    {
+        "id": "1",
+        "title": "J-TEK LAW PLLC",
+        "image": "/images/jteck2.png",
+        "href": "http://www.jtek-law.com/",
+        "clicked": "false",
+        "about": "My first web-app made from scratch by myself",
+        "utilizes": ["React", "Javascript", "CSS"]
+
+    },
+    
+    {
+        "id": "2",
+        "title": "Crystal Game",
+        "image": "/images/background-laptop1.jpg",
+        "href": "https://olga1598.github.io/unit-4-game/",
+        "clicked": "false",
+        "about": "This is a guessing game using numbers hidden behind four crystals displayed as buttons on the page. Win the game if your total score matches the shown random picked number",
+        "utilizes": ["HTML", "jQuery", "CSS", "Javascript"]
+
+
+
+    },
+    
+    {
+        "id": "3",
+        "title": "Trivia Game",
+        "image": "/images/background-laptop2.jpeg",
+        "href": "https://olga1598.github.io/TriviaGame/",
+        "clicked": "false",
+        "about": "Answer 10 questions. You have only 15 seconds for each question. See the right answer if you are wrong.",
+        "utilizes": ["HTML", "Javascript", "CSS", "jQuery", "Bootstrap"]
+
+
+
+    },
+    
+    {
+        "id": "4",
+        "title": "Psychic Game",
+        "image": "/images/background-laptop3.jpg",
+        "href": "https://olga1598.github.io/Psychic-Game/",
+        "clicked": "false",
+        "about": "The computer randomly picks the letter and the user has to guess which letter the computer chose.",
+        "utilizes": ["HTML", "Javascript", "CSS"]
+
+
+
+    },
+    
+    {
+        "id": "5",
+        "title": "Train Time",
+        "image": "/images/background-laptop4.jpg",
+        "href": "https://olga1598.github.io/TrainTime/",
+        "clicked": "false",
+        "about": "Train Schedule app that uses Firebase and Moment.js to show the name, destination, frequency, next arrival and when the next train is coming.",
+        "utilizes": ["Moment.js", "Javascript", "CSS", "Bootstrap", "Firebase", "jQuery"]
+
+
+
+    },
+    
+    {
+        "id": "6",
+        "title": "Foodie-Leaks",
+        "image": "/images/background-laptop5.jpg",
+        "href": "https://jaihieong.github.io/project1_food_passion/",
+        "clicked": "false",
+        "about": "Search for the recipes by ingredient or pick the cusine or category. Get the ingredient list and recipe instructions. ",
+        "utilizes": ["React.js", "Javascript", "CSS", "Bootstrap", "Node.js"]
+
+
+
+    },
+    
+    {
+        "id": "7",
+        "title": "Friend-Finder",
+        "image": "/images/background-laptop5.jpg",
+        "href": "https://shielded-harbor-38775.herokuapp.com/",
+        "clicked": "false",
+        "about": "The Friend-Finder app asks the user to fill up the questionare at the beginning and then finds another person with the most compatible answers. ",
+        "utilizes": ["Express", "Javascript", "CSS", "Bootstrap", "Node.js", "HTML"]
+
+
+
+    },
+    
+    {
+        "id": "8",
+        "title": "Burger",
+        "image": "/images/background-laptop5.jpg",
+        "href": "https://stormy-cliffs-11988.herokuapp.com/",
+        "clicked": "false",
+        "about": "Burger app uses MVS framework and MySQL database. Lets the user to create and 'eat' the burger.",
+        "utilizes": ["Express.js", "Javascript", "CSS", "Bootstrap", "Handlebars", "Node.js", "MySQL"]
+
+
+
+    }
+    
+    
+]
+

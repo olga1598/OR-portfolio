@@ -1,0 +1,42 @@
+.inside-about{
+    margin-top: 3rem;
+}
+
+.inside-about-first, .inside-about-second{
+    color: white;
+    opacity: 0.9;
+}
+
+.inside-about-first h1{
+    
+}
+
+.about-me-text{
+    font-size: 1.3rem;
+}
+
+.inside-about-second{
+    margin-top: 3rem;
+}
+.about-me-skills .skills{
+    width: 70%;
+    padding-top: 20px;
+
+}
+@media screen and (max-width: 900px) {
+    .about-me-skills .skills{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .inside-about{
+        margin: 1rem;
+    }
+    .about-me-skills .skills{
+        width: 20%;
+    }
+    .inside-about-first h1{
+        font-size: 1.7rem;
+    }
+}

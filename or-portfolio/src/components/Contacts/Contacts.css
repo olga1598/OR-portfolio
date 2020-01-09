@@ -1,0 +1,47 @@
+.inside-contact-me h1{
+    color: white;
+    opacity: 0.9;
+    margin-top: 7rem;
+}
+
+.inside-contact-me .contacts {
+    font-size: 1.5rem;
+    color: rgb(173, 170, 170);
+}
+
+.all-contacts{
+    margin-bottom: 50px;
+    margin-top: 50px;
+
+}
+
+.contacts:hover{
+    text-decoration: none;
+    color: white;
+    font-size: 1.6rem;
+    
+}
+  
+.contacts i {
+    font-size: 1.3em;
+    margin: 10px;
+    color: #8d4e5b;
+}
+
+@media screen and (max-width: 600px) {
+    .inside-contact-me h1{
+        margin-top: 0.5rem;
+        font-size: 1.7rem;
+    }
+
+    .inside-contact-me .contacts {
+        font-size: 1.1rem;
+        color: rgb(173, 170, 170);
+    }
+    
+    .all-contacts{
+        margin: 0px;
+    }
+
+  
+}
