@@ -1,0 +1,8 @@
+.not-found{
+    color: white;
+    opacity: 0.7;
+    margin-top: 80px;
+}
+.not-found hr{
+    width: 70%;
+}

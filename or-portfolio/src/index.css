@@ -15,7 +15,7 @@ body{
 body::after {
   content: "";
   background-image: url("/images/image5.jpg");
-  height: 800px;
+  height: 1200px;
   
   /* width: 100%;
   height: 0;

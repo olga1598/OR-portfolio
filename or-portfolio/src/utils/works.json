@@ -6,18 +6,18 @@
         "href": "http://www.jtek-law.com/",
         "clicked": "false",
         "about": "My first web-app made from scratch by myself",
-        "utilizes": ["React", "Javascript", "CSS"]
+        "utilizes": ["React", "Javascript", "CSS", "Bootstrap"]
 
     },
     
     {
         "id": "2",
-        "title": "Crystal Game",
-        "image": "/images/background-laptop1.jpg",
+        "title": "Virginia Deck Builders",
+        "image": "/images/virginia-deck-builders.png",
         "href": "https://olga1598.github.io/unit-4-game/",
         "clicked": "false",
-        "about": "This is a guessing game using numbers hidden behind four crystals displayed as buttons on the page. Win the game if your total score matches the shown random picked number",
-        "utilizes": ["HTML", "jQuery", "CSS", "Javascript"]
+        "about": "Web-app made from scratch by myself",
+        "utilizes": ["React", "Bootstrap", "CSS", "Javascript", "SendGrid", "AXIOS"]
 
 
 
