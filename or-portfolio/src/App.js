@@ -1,5 +1,6 @@
 import React from 'react';
 import { BrowserRouter, Route, Switch } from "react-router-dom";
+import Image from "./components/Image/Image";
 import Header from "./components/Header/Header";
 import Home from "./components/Home/Home";
 import AboutMe from "./components/AboutMe/AboutMe";
