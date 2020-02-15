@@ -35,29 +35,37 @@ const AboutMe = () => {
                                     <img className="skills" src="./images/css-icon.png" alt="icon2" />                       
                                 </div>
                                 <div className="col-sm-2">
-                                    <img className="skills" src="./images/nodejs.png" alt="icon1" />
+                                    <img className="skills" src="./images/nodejs.png" alt="icon3" />
                                 </div>
                                 <div className="col-sm-2">
-                                    <img className="skills" src="./images/js.jpg" alt="icon1" />
+                                    <img className="skills" src="./images/js.jpg" alt="icon4" />
                                 </div>
                                 <div className="col-sm-2">
-                                    <img className="skills" src="./images/react.png" alt="icon1" />
+                                    <img className="skills" src="./images/react.png" alt="icon5" />
                                 </div>
                                 <div className="col-sm-2">
-                                    <img className="skills" src="./images/mongodb.png" alt="icon1" />
+                                    <img className="skills" src="./images/mongodb.png" alt="icon6" />
                                 </div>
                                 <div className="col-sm-2">
-                                    <img className="skills" src="./images/ajax.png" alt="icon1" />
+                                    <img className="skills" src="./images/ajax.png" alt="icon7" />
                                 </div>
                                 <div className="col-sm-2">
-                                    <img className="skills" src="./images/mysql.png" alt="icon1" />
+                                    <img className="skills" src="./images/mysql.png" alt="icon8" />
                                 </div>
                                 <div className="col-sm-2">
-                                    <img className="skills" src="./images/git.png" alt="icon1" />
+                                    <img className="skills" src="./images/git.png" alt="icon9" />
                                 </div>
                                 <div className="col-sm-2">
-                                    <img className="skills" src="./images/bootstrap.png" alt="icon1" />
+                                    <img className="skills" src="./images/bootstrap-4.png" alt="icon10" />
                                 </div>
+                                <div className="col-sm-2">
+                                    <img className="skills" src="./images/github.png" alt="icon10" />
+                                </div>
+                                <div className="col-sm-2">
+                                    <img className="skills" src="./images/api.png" alt="icon10" />
+                                </div>
+
+
 
 
                             </div>
